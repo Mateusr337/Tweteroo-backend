@@ -16,7 +16,9 @@ API de uma versão simples do twitter, we can log in and send public messages.
 ## How to run
 
 Firt clone this repository
+
 run ```npm i```
+
 Finally run at the prompt ```node src/index.js```
 
 
